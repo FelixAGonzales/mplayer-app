@@ -1,0 +1,2 @@
+class Mplayer < ApplicationRecord
+end
